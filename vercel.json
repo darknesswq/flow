@@ -1,6 +1,6 @@
-{
-  "version": 2,
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
-  ]
-}
+     {
+       "rewrites": [
+         { "source": "/api/:path*", "destination": "/api/:path*" },  // API работают
+         { "source": "/:path*", "destination": "/index.html" }        // SPA роутинг
+       ]
+     }

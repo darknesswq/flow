@@ -1,0 +1,112 @@
+[
+  {
+    "id": "68fcce78ca161d9a37e79bf8",
+    "name": "Красная роза",
+    "price": 150,
+    "image_url": "https://base44.app/api/apps/68fccd96df46738119dc771a/files/public/68fccd96df46738119dc771a/dfa6f5ffb_image-gen.png",
+    "description": "Классическая красная роза",
+    "color": "красный",
+    "in_stock": true,
+    "category": "розы",
+    "stock_quantity": 50
+  },
+  {
+    "id": "68fcce78ca161d9a37e79bf9",
+    "name": "Розовая роза",
+    "price": 140,
+    "image_url": "https://base44.app/api/apps/68fccd96df46738119dc771a/files/public/68fccd96df46738119dc771a/f8c5e4b06_envato-labs-image-edit.png",
+    "description": "Нежная розовая роза",
+    "color": "розовый",
+    "in_stock": true,
+    "category": "розы",
+    "stock_quantity": 50
+  },
+  {
+    "id": "68fcce78ca161d9a37e79bfa",
+    "name": "Белая роза",
+    "price": 145,
+    "image_url": "https://images.unsplash.com/photo-1563241527-3004b7be0ffd?w=400&q=80",
+    "description": "Элегантная белая роза",
+    "color": "белый",
+    "in_stock": true,
+    "category": "розы",
+    "stock_quantity": 50
+  },
+  {
+    "id": "68fcce78ca161d9a37e79bfb",
+    "name": "Розовый тюльпан",
+    "price": 90,
+    "image_url": "https://images.unsplash.com/photo-1520763185298-1b434c919102?w=400&q=80",
+    "description": "Весенний розовый тюльпан",
+    "color": "розовый",
+    "in_stock": true,
+    "category": "тюльпаны",
+    "stock_quantity": 50
+  },
+  {
+    "id": "68fcce78ca161d9a37e79bfc",
+    "name": "Желтый тюльпан",
+    "price": 85,
+    "image_url": "https://images.unsplash.com/photo-1582664806392-935ad4c00b5c?w=400&q=80",
+    "description": "Яркий желтый тюльпан",
+    "color": "желтый",
+    "in_stock": true,
+    "category": "тюльпаны",
+    "stock_quantity": 50
+  },
+  {
+    "id": "68fcce78ca161d9a37e79bfd",
+    "name": "Розовый пион",
+    "price": 200,
+    "image_url": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=400&q=80",
+    "description": "Роскошный розовый пион",
+    "color": "розовый",
+    "in_stock": true,
+    "category": "пионы",
+    "stock_quantity": 50
+  },
+  {
+    "id": "68fcce78ca161d9a37e79bfe",
+    "name": "Белая орхидея",
+    "price": 250,
+    "image_url": "https://images.unsplash.com/photo-1507878866276-a947ef722fee?w=400&q=80",
+    "description": "Изысканная белая орхидея",
+    "color": "белый",
+    "in_stock": true,
+    "category": "орхидеи",
+    "stock_quantity": 50
+  },
+  {
+    "id": "68fcce78ca161d9a37e79bff",
+    "name": "Розовая эустома",
+    "price": 120,
+    "image_url": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=400&q=80",
+    "description": "Нежная розовая эустома",
+    "color": "розовый",
+    "in_stock": true,
+    "category": "эустома",
+    "stock_quantity": 50
+  },
+  {
+    "id": "68fcce78ca161d9a37e79c00",
+    "name": "Белая лилия",
+    "price": 180,
+    "image_url": "https://base44.app/api/apps/68fccd96df46738119dc771a/files/public/68fccd96df46738119dc771a/228f09d47_image-gen1.png",
+    "description": "Ароматная белая лилия",
+    "color": "белый",
+    "in_stock": true,
+    "category": "лилии",
+    "stock_quantity": 50
+  },
+  {
+    "id": "68fcce78ca161d9a37e79c01",
+    "name": "Эвкалипт",
+    "price": 50,
+    "image_url": "https://images.unsplash.com/photo-1605379399642-870262d3d051?w=400&q=80",
+    "description": "Декоративная зелень",
+    "color": "микс",
+    "in_stock": true,
+    "category": "зелень",
+    "stock_quantity": 100
+  }
+]
